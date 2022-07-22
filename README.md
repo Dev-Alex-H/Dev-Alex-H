@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **ReactJS, HTML5, CSS3 and Javascript**
 
+- 📫 How to reach me **henaochacon@gmail.com**
+
 - 📄 Know about my experiences [www.linkedin.com/in/alexander-henao-chacon-b1135b244](www.linkedin.com/in/alexander-henao-chacon-b1135b244)
 
 <h3 align="left">Connect with me:</h3>
